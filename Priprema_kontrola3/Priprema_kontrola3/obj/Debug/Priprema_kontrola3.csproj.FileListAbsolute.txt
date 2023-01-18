@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\obj\Debug\Priprema_kontrola3.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\obj\Debug\Priprema_kontrola3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\bin\Debug\Priprema_kontrola3.exe.config
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\bin\Debug\Priprema_kontrola3.exe
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\bin\Debug\Priprema_kontrola3.pdb
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\obj\Debug\Priprema_kontrola3.exe
+C:\Users\ucenik\source\repos\Priprema_kontrola3\Priprema_kontrola3\obj\Debug\Priprema_kontrola3.pdb
